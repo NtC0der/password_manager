@@ -1,0 +1,1 @@
+This is my first respectable attempt of making a small app in python to gain knowledge and experience but most importantly to get myself accustomed to using tools such as github and open source libraries!
